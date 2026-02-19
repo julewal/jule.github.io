@@ -1,4 +1,4 @@
-<div style={{ width: '1080px', height: '1080px', position: 'relative' }}>
+style={{ width: '1080px', height: '1080px', position: 'relative' }}>
   <Balatro
     spinRotation={-2}
     spinSpeed={7}
