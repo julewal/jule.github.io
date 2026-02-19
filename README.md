@@ -1,22 +1,13 @@
-import TiltedCard from './TiltedCard';
-
-<TiltedCard
-  imageSrc="https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58"
-  altText="Kendrick Lamar - GNX Album Cover"
-  captionText="Kendrick Lamar - GNX"
-  containerHeight="300px"
-  containerWidth="300px"
-  imageHeight="300px"
-  imageWidth="300px"
-  rotateAmplitude={12}
-  scaleOnHover={1.05}
-  showMobileWarning={false}
-  showTooltip
-  displayOverlayContent
-  overlayContent={
-    <p className="tilted-card-demo-text">
-      Kendrick Lamar - GNX
-    </p>
-  }
-/>
-  
+<div style={{ width: '1080px', height: '1080px', position: 'relative' }}>
+  <Balatro
+    spinRotation={-2}
+    spinSpeed={7}
+    color1="#e392fe"
+    color2="#006BB4"
+    color3="#162325"
+    contrast={3.5}
+    lighting={0.65}
+    spinAmount={0.25}
+    pixelFilter={2000}
+  />
+</div>
