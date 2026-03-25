@@ -434,7 +434,7 @@
         <span class="material-symbols-outlined" style="font-size:0.85rem">school</span>
         International Business Studies · Universität Paderborn
       </div>
-      <h1>Nice toamp;<br/><em>meet</em><br/>you!</h1>
+      <h1>Nice to<br/><em>meet</em><br/>you!</h1>
       <p class="hero-sub">
         Currently based <strong style="color:var(--ink)">in Paderborn, Germany</strong>. Passionate about creating compelling campaigns, curating content strategies, and turning ideas into real-world impact.
       </p>
@@ -705,7 +705,7 @@
           </div>
           <div>
             <div class="contact-info-label">LinkedIn</div>
-            <div class="contact-info-val"><a href="www.linkedin.com/in/jule-walsch"
+            <div class="contact-info-val"><a"www.linkedin.com/in/jule-walsch"
           </div>
         </div>
         <div style="margin-top:1.8rem;padding-top:1.5rem;border-top:1px solid rgba(255,255,255,0.1)">
