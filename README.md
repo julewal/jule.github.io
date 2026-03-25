@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
   <meta charset="utf-8"/>
@@ -731,7 +730,7 @@
         </div>
         <div style="margin-top:1.8rem;padding-top:1.5rem;border-top:1px solid rgba(255,255,255,0.1)">
           <div class="contact-info-label" style="margin-bottom:0.8rem">Date of Birth</div>
-          <div class="contact-info-val">04 November 2003, Paderborn</div>
+          <div class="contact-info-val">11 April 2003, Paderborn</div>
         </div>
       </div>
 
