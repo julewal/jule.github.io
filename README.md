@@ -432,7 +432,7 @@
     <div class="hero-content animate-in">
       <div class="hero-badge">
         <span class="material-symbols-outlined" style="font-size:0.85rem">school</span>
-        International Business Studies · Universität Paderborn
+        International Business Studies · University of Paderborn
       </div>
       <h1>Nice to<br/><em>meet</em><br/>you!</h1>
       <p class="hero-sub">
