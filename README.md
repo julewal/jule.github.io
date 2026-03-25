@@ -664,7 +664,7 @@
 
       <div class="about-text">
         <p>
-          Based in <strong>Borchen, Germany</strong>, I'm a passionate International Business Studies student with a strong focus on marketing, content strategy, and campaign management.
+          Based in <strong>Paderborn, Germany</strong>, I'm a passionate International Business Studies student with a strong focus on marketing, content strategy, and campaign management.
         </p>
         <p>
           My internship at <strong>Audi AG</strong> gave me international campaign experience across TV, OOH, social media and digital — reinforcing my belief that great communication can transcend borders and languages.
