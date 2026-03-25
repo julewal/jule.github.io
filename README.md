@@ -3,7 +3,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Jule Walsch — CV</title>
-  <meta name="description" content="CV of Jule Walsch — International Business Studies student, marketing & content specialist based in Borchen, Germany."/>
+  <meta name="description" content="CV of Jule Walsch — International Business Studies student, nice to meet you!"/>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;600;700;800;900&family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap" rel="stylesheet"/>
   <style>
@@ -436,7 +436,7 @@
       </div>
       <h1>Marketing &amp;<br/><em>Content</em><br/>Specialist.</h1>
       <p class="hero-sub">
-        Born <strong style="color:var(--ink)">04/11/2003 in Paderborn, Germany</strong>. Passionate about creating compelling campaigns, curating content strategies, and turning ideas into real-world impact — from Audi AG to student life in Valencia.
+        Currently based <strong style="color:var(--ink)">in Paderborn, Germany</strong>. Passionate about creating compelling campaigns, curating content strategies, and turning ideas into real-world impact.
       </p>
       <div class="hero-ctas">
         <a href="#experience" class="btn-primary">
@@ -570,7 +570,7 @@
 
       <div class="edu-card">
         <div class="edu-card-label">University</div>
-        <span class="edu-period">October 2021 – Present</span>
+        <span class="edu-period">October 2021 – March 2026</span>
         <div class="edu-degree">International Business Studies (B.Sc.)</div>
         <div class="edu-school">Universität Paderborn</div>
         <div class="edu-meta">Current grade: <span>1,6</span> &nbsp;·&nbsp; GPA: <span>3.4</span></div>
@@ -740,7 +740,7 @@
 
 <!-- ─── Footer ─── -->
 <footer>
-  © 2025 <span>Jule Walsch</span> — International Business Studies · Universität Paderborn
+  © 2025 <span>Jule Walsch</span> — Nice to meet you! 
 </footer>
 
 <script>
