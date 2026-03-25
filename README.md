@@ -434,7 +434,7 @@
         <span class="material-symbols-outlined" style="font-size:0.85rem">school</span>
         International Business Studies · Universität Paderborn
       </div>
-      <h1>Marketing &amp;<br/><em>Content</em><br/>Specialist.</h1>
+      <h1>Nice to amp;<br/><em>meet</em><br/>you!</h1>
       <p class="hero-sub">
         Currently based <strong style="color:var(--ink)">in Paderborn, Germany</strong>. Passionate about creating compelling campaigns, curating content strategies, and turning ideas into real-world impact.
       </p>
@@ -464,13 +464,13 @@
     <div class="hero-visual animate-in" style="transition-delay:0.2s">
       <div class="chip chip-tl">
         <span class="chip-icon"><span class="material-symbols-outlined" style="color:var(--teal);font-size:0.8rem">location_on</span></span>
-        Borchen, Germany
+        Paderborn, Germany
       </div>
       <div class="hero-photo-wrap">
         <img
           src="https://lh3.googleusercontent.com/aida/ADBb0uiLnmWYxeai-Kyv0hrN0VKWYim3ecXt00trN5GAk-7EJxRaoaliEHrpg7FXSUGxRYQX--J6Mu2C0aDk45qMrZow1JzF52o1q7hJgRXswzxZUBRMpS_m3JI0AO_zHTWxvAiA3Md9gtg56pcHalWQfk3cv_FG3hd_bW_j6owu1GX9wgvgP8sf4nt6ViLFjbOzVKragv7nw0Xo7AOgD4XV7XFnvechuWgScF8bSHNJpBXrz4LyJKkSAEIaWpBADlDOQGqr4XcQxk4h"
           alt="Jule Walsch"
-        />
+  />
       </div>
       <div class="chip chip-br">
         <span class="chip-icon"><span class="material-symbols-outlined" style="color:var(--rose);font-size:0.8rem">star</span></span>
@@ -672,7 +672,7 @@
           My internship at <strong>Audi AG</strong> gave me international campaign experience across TV, OOH, social media and digital — reinforcing my belief that great communication can transcend borders and languages.
         </p>
         <p>
-          Studying abroad in <strong>Valencia, Spain</strong> and travelling through <strong>Australia</strong> shaped both my global mindset and my adaptability in new environments.
+          Studying abroad in <strong>Valencia, Spain</strong> and working in and travelling through <strong>Australia</strong> shaped both my global mindset and my adaptability in new environments.
         </p>
         <div style="margin-top:1.8rem">
           <div class="skill-group-title" style="color:var(--teal);margin-bottom:0.9rem">Interests</div>
