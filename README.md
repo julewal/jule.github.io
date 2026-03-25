@@ -472,7 +472,10 @@
           alt="Jule Walsch"
   />
       </div>
-      
+      <div class="chip chip-br">
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- ─── Work Experience ─── -->
