@@ -434,7 +434,7 @@
         <span class="material-symbols-outlined" style="font-size:0.85rem">school</span>
         International Business Studies · Universität Paderborn
       </div>
-      <h1>Nice to amp;<br/><em>meet</em><br/>you!</h1>
+      <h1>Nice toamp;<br/><em>meet</em><br/>you!</h1>
       <p class="hero-sub">
         Currently based <strong style="color:var(--ink)">in Paderborn, Germany</strong>. Passionate about creating compelling campaigns, curating content strategies, and turning ideas into real-world impact.
       </p>
@@ -472,12 +472,7 @@
           alt="Jule Walsch"
   />
       </div>
-      <div class="chip chip-br">
-        <span class="chip-icon"><span class="material-symbols-outlined" style="color:var(--rose);font-size:0.8rem">star</span></span>
-        Abitur: 1,3
-      </div>
-    </div>
-  </div>
+      
 </section>
 
 <!-- ─── Work Experience ─── -->
