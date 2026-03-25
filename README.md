@@ -701,29 +701,11 @@
         <h3>Get in touch.</h3>
         <div class="contact-row">
           <div class="contact-icon">
-            <span class="material-symbols-outlined">location_on</span>
-          </div>
-          <div>
-            <div class="contact-info-label">Address</div>
-            <div class="contact-info-val">Ahornweg 29, 33178 Borchen, Germany</div>
-          </div>
-        </div>
-        <div class="contact-row">
-          <div class="contact-icon">
             <span class="material-symbols-outlined">mail</span>
           </div>
           <div>
-            <div class="contact-info-label">Email</div>
-            <div class="contact-info-val"><a href="mailto:jule.walsch@aol.com">jule.walsch@aol.com</a></div>
-          </div>
-        </div>
-        <div class="contact-row">
-          <div class="contact-icon">
-            <span class="material-symbols-outlined">phone</span>
-          </div>
-          <div>
-            <div class="contact-info-label">Phone</div>
-            <div class="contact-info-val"><a href="tel:+4915157471814">+49 1515 7471814</a></div>
+            <div class="contact-info-label">LinkedIn</div>
+            <div class="contact-info-val"><a href="www.linkedin.com/in/jule-walsch"
           </div>
         </div>
         <div style="margin-top:1.8rem;padding-top:1.5rem;border-top:1px solid rgba(255,255,255,0.1)">
