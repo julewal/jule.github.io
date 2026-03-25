@@ -434,7 +434,7 @@
         <span class="material-symbols-outlined" style="font-size:0.85rem">school</span>
         International Business Studies · Universität Paderborn
       </div>
-      <h1>Marketing &amp;<br/><em>Content</em><br/>Specialist.</h1>
+      <h1>Nice to &amp;<br/><em>meet</em><br/>you!</h1>
       <p class="hero-sub">
         Currently based <strong style="color:var(--ink)">in Paderborn, Germany</strong>. Passionate about creating compelling campaigns, curating content strategies, and turning ideas into real-world impact.
       </p>
@@ -491,12 +491,12 @@
       <div class="tl-item">
         <div class="tl-date-col">
           <div class="tl-period">Nov 2025 – Today</div>
-          <div class="tl-company">Universität Paderborn</div>
+          <div class="tl-company">University of Paderborn - Chair of Organizational Behavior Paderborn</div>
         </div>
         <div class="tl-dot"></div>
         <div class="tl-content">
           <div class="tl-role">Student Assistant</div>
-          <span class="tl-type">Working Student — Chair of Organizational</span>
+          <span class="tl-type">Working Student</span>
           <ul class="tl-bullets">
             <li>Literature research and support for lecture material preparation</li>
           </ul>
@@ -669,10 +669,10 @@
           Based in <strong>Borchen, Germany</strong>, I'm a passionate International Business Studies student with a strong focus on marketing, content strategy, and campaign management.
         </p>
         <p>
-          My internship at <strong>Audi AG</strong> gave me international campaign experience across TV, OOH, social media and digital — reinforcing my belief that great communication can transcend borders and languages.
+          My internship at <strong>Audi AG</strong> allowed me to gain insight into the development of international campaigns including TV, OOH, social media and digital assets.
         </p>
         <p>
-          Studying abroad in <strong>Valencia, Spain</strong> and travelling through <strong>Australia</strong> shaped both my global mindset and my adaptability in new environments.
+          Studying abroad in <strong>Valencia, Spain</strong> and working and travelling through <strong>Australia</strong> shaped both my global mindset and my adaptability in new environments.
         </p>
         <div style="margin-top:1.8rem">
           <div class="skill-group-title" style="color:var(--teal);margin-bottom:0.9rem">Interests</div>
